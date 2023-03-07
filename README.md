@@ -1,5 +1,5 @@
 # Countries List
-Countries List JSON With Country name &amp; Flag &amp; Calling Code.
+The Easiest Way To Implement Countries List in JSON format With Country name &amp; Flag &amp; Calling Code inside your application, website, system.
 
 
 # Usage
