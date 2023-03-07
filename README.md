@@ -19,3 +19,7 @@ The Easiest Way To Implement Countries List in JSON format With Country name &am
 
 ## For Issues
 If you had an issue or you think that there is a missing country please create new issue.
+
+## License
+All Copyright saved by [`Encept Ltd Company`](https://encept.co).
+you are free to reuse this library in your system without any problems.
