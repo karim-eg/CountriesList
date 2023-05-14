@@ -7,13 +7,13 @@ function getCountries($userLang): string {
     $lang = getLang($userLang);
 
     return trim('[
-    {"code":"default", "country_code":"", "flag":"", "name":"' . $lang['def'] . '"},
-    {"code":"af", "country_code":"+93", "flag":"🇦🇫", "name":"'. $lang['Afghanistan'] .'"},
-    {"code":"al", "country_code":"+355", "flag":"🇦🇱", "name":"'. $lang['Albania'] .'"},
-    {"code":"dz", "country_code":"+213", "flag":"🇩🇿", "name":"' . $lang['Algeria'] . '"},
-    {"code":"dz", "country_code":"+1684", "flag":"🇦🇸", "name":"'. $lang['American_Samoa'] .'"},
-    {"code":"ad", "country_code":"+376", "flag":"🇦🇩", "name":"'. $lang['Andorra'] .'"},
-    {"code":"ao", "country_code":"+244", "flag":"🇦🇴", "name":"'. $lang['Angola'] .'"},
+    {"code":"default", "calling_code":"", "flag":"", "name":"' . $lang['def'] . '"},
+    {"code":"af", "calling_code":"+93", "flag":"🇦🇫", "name":"'. $lang['Afghanistan'] .'"},
+    {"code":"al", "calling_code":"+355", "flag":"🇦🇱", "name":"'. $lang['Albania'] .'"},
+    {"code":"dz", "calling_code":"+213", "flag":"🇩🇿", "name":"' . $lang['Algeria'] . '"},
+    {"code":"dz", "calling_code":"+1684", "flag":"🇦🇸", "name":"'. $lang['American_Samoa'] .'"},
+    {"code":"ad", "calling_code":"+376", "flag":"🇦🇩", "name":"'. $lang['Andorra'] .'"},
+    {"code":"ao", "calling_code":"+244", "flag":"🇦🇴", "name":"'. $lang['Angola'] .'"},
     {"code":"ag", "calling_code":"+1268", "flag":"🇦🇬", "name":"'. $lang['Antigua_Barbuda'] .'"},
     {"code":"ar", "calling_code":"+54", "flag":"🇦🇷", "name":"'. $lang['Argentina'] .'"},
     {"code":"am", "calling_code":"+374", "flag":"🇦🇲", "name":"'. $lang['Armenia'] .'"},
