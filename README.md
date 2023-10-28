@@ -1,6 +1,7 @@
-# Countries List
+# Countries List [![StandWithPalestine](https://raw.githubusercontent.com/kimoandroid/StandWithPalestine/main/assets/palestine_badge.svg)](https://github.com/kimoandroid/StandWithPalestine)
 The Easiest Way To Implement Countries List in JSON format With Country name &amp; Flag &amp; Calling Code inside your application, website, system.
 
+[![StandWithPalestine](https://raw.githubusercontent.com/kimoandroid/StandWithPalestine/main/assets/palestine_banner.svg)](https://github.com/kimoandroid/StandWithPalestine/blob/main/Donate.md)
 
 # Usage
 - You Can Use This Json File into your app or website easily just start index.php file and parse the results with JSON decode.
