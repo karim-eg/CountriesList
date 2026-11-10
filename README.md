@@ -6,7 +6,7 @@ The Easiest Way To Implement Countries List in JSON format With Country name &am
 
 # Usage
 - You Can Use This Json File into your app or website easily just start index.php file and parse the results with JSON decode.
-- You Can use Encept Ltd Api to implement countries list in your system by calling: [`https://api.encept.co/countries/index.php?lang=en`](https://api.encept.co/countries/index.php?lang=en) and just get result or you can upload this files on your server.
+- You Can use Encept Ltd Api to implement countries list in your system by calling: [`https://api.karim-eg.site/countries/index.php?lang=en`](https://api.karim-eg.site/countries/index.php?lang=en) and just get result or you can upload this files on your server.
 
 
 ## Example:
@@ -23,5 +23,4 @@ The Easiest Way To Implement Countries List in JSON format With Country name &am
 If you had an issue or you think that there is a missing country please create new issue.
 
 ## License
-All Copyright saved by [`Encept Ltd Company`](https://encept.co).
 you are free to reuse this library in your system without any problems.
